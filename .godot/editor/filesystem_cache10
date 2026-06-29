@@ -1,0 +1,8 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1782608176
+Main.gd::GDScript::5720088335936990140::1782608034::0::1::::<>Node2D<><>0<>0<><>::
+Main.tscn::PackedScene::6772717647998698814::1782607992::0::1::::<><><>0<>0<><>::res://Main.gd
+::res://assets/::1782608106
+bg.png::CompressedTexture2D::6393810687573970101::1782604201::1782608106::1::::<><><>0<>0<>58770ed9aa8befe2a870d617c49a3ec6<>res://.godot/imported/bg.png-23a59c2e9cba2223a50fa3fe41b70b25.ctex::
+objects.png::CompressedTexture2D::5530840457743791011::1782604199::1782608106::1::::<><><>0<>0<>91dc80cd96ca428c39db8c676c28743f<>res://.godot/imported/objects.png-70e7284227060a3ae74917640f1e1f26.ctex::
+player.png::CompressedTexture2D::433102794497175617::1782604196::1782608106::1::::<><><>0<>0<>d98a4025efb1bd4c7941b884191190cb<>res://.godot/imported/player.png-be2216fcaabb5c62aa2466cd9a5726a8.ctex::
