@@ -1,5 +1,8 @@
 # MMO RPG — Godot Client
 
+<!-- badges -->
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![Godot 4](https://img.shields.io/badge/Godot%204-478CBF?style=flat-square&logo=godotengine&logoColor=white) ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
 [Ler em Português](README.md)
 
 Godot 4 client for the [MMO RPG](https://github.com/Luisr-nunes/mmo_rpg) prototype, built to compare the engine against the Unity client on the same server.
